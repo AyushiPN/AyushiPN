@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" class="profile" style="display: block;  margin-left: 27%;  margin-right: auto;" src="https://user-images.githubusercontent.com/74812992/183491956-7f2d1c01-9cd3-46b1-9c8a-73ba3834b233.png" height="200px"/></a>
+<a href="#"><img width="100%" class="profile" style="display: block;  margin-left: 27%;  margin-right: auto;" src="https://user-images.githubusercontent.com/74812992/183491956-7f2d1c01-9cd3-46b1-9c8a-73ba3834b233.png" height="500px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayushi</h1>
 <h3 align="center">I'm an enthusiastic student from India.</h3>
